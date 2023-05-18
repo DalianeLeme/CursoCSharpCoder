@@ -1,4 +1,5 @@
 ﻿using CursoCSharpCoder.ClassesEMetodos;
+using CursoCSharpCoder.Colecoes;
 
 namespace CursoCSharp
 {
@@ -53,7 +54,7 @@ namespace CursoCSharp
                 {"Parametros por Referência - Classes e Metodos", ParamentrosPorReferencia.Executar},
                 {"Parametros por valor Padrão - Classes e Metodos", ParametroPadrao.Executar},
                 // Coleções
-                {"Array - Coleções", Colecoes.Array.Executar},
+                {"Array - Coleções", CursoCSharpCoder.Colecoes.Array.Executar},
                 {"List - Coleções", ColecoesList.Executar},
                 {"ArrayList - Coleções", ColecoesArrayList.Executar},
                 {"Set - Coleções", ColecoesSet.Executar},
