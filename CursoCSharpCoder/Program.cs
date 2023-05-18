@@ -1,6 +1,8 @@
-﻿using CursoCSharpCoder.ClassesEMetodos;
+﻿using CursoCSharpCoder;
+using CursoCSharpCoder.ClassesEMetodos;
 using CursoCSharpCoder.Colecoes;
 using CursoCSharpCoder.EstruturasDeControle;
+using CursoCSharpCoder.Fundamentos;
 
 namespace CursoCSharp
 {
