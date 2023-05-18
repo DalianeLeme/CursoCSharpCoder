@@ -1,6 +1,4 @@
-﻿
-
-using CursoCSharp.ClassesEMetodos;
+﻿using CursoCSharpCoder.ClassesEMetodos;
 
 namespace CursoCSharp
 {
