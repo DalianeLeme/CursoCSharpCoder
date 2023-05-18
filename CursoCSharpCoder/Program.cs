@@ -3,6 +3,7 @@ using CursoCSharpCoder.ClassesEMetodos;
 using CursoCSharpCoder.Colecoes;
 using CursoCSharpCoder.EstruturasDeControle;
 using CursoCSharpCoder.Fundamentos;
+using CursoCSharpCoder.OO;
 
 namespace CursoCSharp
 {
@@ -68,7 +69,7 @@ namespace CursoCSharp
                 // OO
                 {"Herança - OO", Heranca.Executar},
                 {"Construtor This - OO", ConstrutorThis.Executar},
-                //{"Encapsulamento - OO", OO.Encapsulamento.Executar},
+                {"Encapsulamento - OO", CursoCSharpCoder.OO.Encapsulamento.Executar},
             });
 
             central.SelecionarEExecutar();
