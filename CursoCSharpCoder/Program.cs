@@ -70,6 +70,7 @@ namespace CursoCSharp
                 {"Herança - OO", Heranca.Executar},
                 {"Construtor This - OO", ConstrutorThis.Executar},
                 {"Encapsulamento - OO", CursoCSharpCoder.OO.Encapsulamento.Executar},
+                {"Polimorfismo - OO", Polimorfismo.Executar},
             });
 
             central.SelecionarEExecutar();
