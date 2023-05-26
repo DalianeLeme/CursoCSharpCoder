@@ -72,6 +72,7 @@ namespace CursoCSharp
                 {"Encapsulamento - OO", CursoCSharpCoder.OO.Encapsulamento.Executar},
                 {"Polimorfismo - OO", Polimorfismo.Executar},
                 {"Abstract - OO", Abstract.Executar},
+                {"Interface - OO", Interface.Executar},
             });
 
             central.SelecionarEExecutar();
