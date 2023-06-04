@@ -4,6 +4,7 @@ using CursoCSharpCoder.Colecoes;
 using CursoCSharpCoder.EstruturasDeControle;
 using CursoCSharpCoder.Fundamentos;
 using CursoCSharpCoder.OO;
+using CursoCSharpCoder.MetodosEFuncoes;
 
 namespace CursoCSharp
 {
@@ -74,6 +75,8 @@ namespace CursoCSharp
                 {"Abstract - OO", Abstract.Executar},
                 {"Interface - OO", Interface.Executar},
                 {"Sealed - OO", Sealed.Executar},
+                // Métodos e Funções
+                {"Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar},
             });
 
             central.SelecionarEExecutar();
