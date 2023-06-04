@@ -77,6 +77,7 @@ namespace CursoCSharp
                 {"Sealed - OO", Sealed.Executar},
                 // Métodos e Funções
                 {"Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar},
+                {"Lambdas Como Delegates - Métodos e Funções", LambdasDelegate.Executar},
             });
 
             central.SelecionarEExecutar();
