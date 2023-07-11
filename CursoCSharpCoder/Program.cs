@@ -101,6 +101,7 @@ namespace CursoCSharp
                 {"LINQ1 - Tópicos Avançados", LINQ1.Executar},
                 {"LINQ2 - Tópicos Avançados", LINQ2.Executar},
                 {"Nullables - Tópicos Avançados", Nullables.Executar},
+                {"Dynamics - Tópicos Avançados", Dynamics.Executar},
             });
 
             central.SelecionarEExecutar();
